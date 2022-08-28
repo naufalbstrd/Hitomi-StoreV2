@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6285742235361@s.whatsapp.net"],
+  "ownerName": ["Naufal MR"],
+  "botName": "Sky Bot",
+  "buttonName": "Tiktok Official",
+  "buttonLink": "https://tiktok.com/skyxboyy",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/nfllmr._",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
